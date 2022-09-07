@@ -1,0 +1,19 @@
+plugins {
+    id 'java-library'
+    id 'kotlin'
+}
+
+def cfg = rootProject.ext
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    api cfg.libRxJavaAndroid
+    api cfg.libRxJava
+
+    /*api 'io.reactivex.rxjava3:rxjava:3.0.0'
+    api 'io.reactivex.rxjava3:rxandroid:3.0.0'*/
+}

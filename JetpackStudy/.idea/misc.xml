@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/JetpackStudy/lifecycle/src/main/res/layout/activity_main.xml" value="0.3390625" />
+        <entry key="..\:/code/JetpackStudy/lifecycle/src/main/res/layout/activity_main_2.xml" value="0.3536458333333333" />
+        <entry key="..\:/code/JetpackStudy/viewmodel/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/code/android/JetpackStudy/databinding/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
+        <entry key="..\:/code/android/JetpackStudy/databinding2/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/databinding2/src/main/res/layout/sub.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/databinding3/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/databinding4/src/main/res/layout/activity_main.xml" value="0.18489583333333334" />
+        <entry key="..\:/code/android/JetpackStudy/databinding7/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/lifecycle/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/lifecycle/src/main/res/layout/activity_main_2.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/livedata/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/code/android/JetpackStudy/livedata2/src/main/res/layout/activity_main.xml" value="0.19479166666666667" />
+        <entry key="..\:/code/android/JetpackStudy/livedata2/src/main/res/layout/fragment_first.xml" value="0.24479166666666666" />
+        <entry key="..\:/code/android/JetpackStudy/livedata2/src/main/res/layout/fragment_second.xml" value="0.24479166666666666" />
+        <entry key="..\:/code/android/JetpackStudy/navigation/src/main/res/layout/activity_main.xml" value="0.109375" />
+        <entry key="..\:/code/android/JetpackStudy/navigation/src/main/res/layout/fragment_detail.xml" value="0.12395833333333334" />
+        <entry key="..\:/code/android/JetpackStudy/navigation/src/main/res/layout/fragment_first.xml" value="0.2" />
+        <entry key="..\:/code/android/JetpackStudy/navigation/src/main/res/layout/fragment_home.xml" value="0.109375" />
+        <entry key="..\:/code/android/JetpackStudy/navigation2/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/code/android/JetpackStudy/navigation2/src/main/res/layout/fragment_main.xml" value="0.1140625" />
+        <entry key="..\:/code/android/JetpackStudy/navigation2/src/main/res/layout/fragment_settins.xml" value="0.1140625" />
+        <entry key="..\:/code/android/JetpackStudy/navigation2/src/main/res/menu/setting_menu.xml" value="0.1140625" />
+        <entry key="..\:/code/android/JetpackStudy/navigation3/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/code/android/JetpackStudy/navigation3/src/main/res/layout/fragment_detail.xml" value="0.1140625" />
+        <entry key="..\:/code/android/JetpackStudy/navigation3/src/main/res/layout/fragment_home.xml" value="0.1140625" />
+        <entry key="..\:/code/android/JetpackStudy/room/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/code/android/JetpackStudy/room/src/main/res/layout/item.xml" value="0.4" />
+        <entry key="..\:/code/android/JetpackStudy/room2/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/code/android/JetpackStudy/room2/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/code/android/JetpackStudy/viewbinding/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/viewbinding/src/main/res/layout/fragment_first.xml" value="0.19635416666666666" />
+        <entry key="..\:/code/android/JetpackStudy/viewmodel/src/main/res/layout/activity_main.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

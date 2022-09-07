@@ -1,0 +1,22 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "AndroidStudy"
+include ':app'
+include ':httpurl'
+include ':okhttp'
+include ':retrofit'
+include ':rxjava'
+include ':app:rxjava'
+include ':rxjava:UseDemo'
+include ':annotations'
+include ':annotationsprocessor'
+include ':dagger'
+include ':dagger2source'
+include ':dagger:dagger2'
+include ':dagger2'
